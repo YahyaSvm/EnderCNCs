@@ -1,3 +1,10 @@
+# 24.07.25
+- Back after vacation !
+- Added new version of Z motor spacers, old ones could bend under warmer weather. There is a clean version, one with logo single color and one dual color logo version. Choose one and print 2 pieces. [Printables]
+- Added new version of Z_top_bearing mounts for the new Z motor spacers. ( You do not have to reprint these if you want use the new Z motor spacers, only removed holes for the old spacers, should not be visible either way) [Printables]
+- Added support for the Ender 3 NON-PRO using the 2040 from under the bed and not 4040 like the E3PRO. (will be uploaded soon with the new CAD version)
+
+
 # 15.07.25
 
 - Added STL's to the Printables page. 
