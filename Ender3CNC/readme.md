@@ -1,4 +1,4 @@
-# Ender 3 PRO based CNC!
+# Ender 3 PRO based CNC! [Printables link!](https://www.printables.com/model/1318299-e3cnc-ender-3-pro-based-cnc)
 ![image](https://github.com/user-attachments/assets/df2746be-0fd8-4aa2-b609-81031dc4cfa2)
 
 ## Fully built!
