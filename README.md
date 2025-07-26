@@ -1,6 +1,6 @@
 # EnderCNC's!
 
-## [Join us on discord!](https://discord.gg/f6FjTJYpcy)
+## [Join us on Discord!](https://discord.gg/f6FjTJYpcy)
 ### Got too many Enders laying around? Dont need a [5th Trident?](https://github.com/yell3D/Ender3dent) Well! Try one of the EnderCNC's, born from a lack of sleep, a wish to learn more CAD and too many spare parts floating around.
 
 ## Current plan has changed a bit. There will be multiple versions of these.
