@@ -13,8 +13,6 @@
 ![image](https://github.com/user-attachments/assets/df2746be-0fd8-4aa2-b609-81031dc4cfa2)
 ![image](https://github.com/user-attachments/assets/43854a83-0945-4e80-aa53-9ccf8a7e4b0b)
 
-BOM and CAD will be released into "BETA" when CAD is "finished".
-
 
 - The [original EnderCNC](https://github.com/Futtawuh/EnderCNCs/tree/main/EnderCNC%20CAD) underwent a facelift and is tested OK on parts and is now in "release" version and wont have updates unless issues arise. (this was loosely based on the Ender 3 PRO + Ender 4 parts)
 ![image](https://github.com/user-attachments/assets/9c401c66-4c9e-4997-86d7-50659553de69)
