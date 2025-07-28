@@ -7,6 +7,7 @@
 - Added new Z carriage for the BEEFY clamps [does not fit with the old dremel clamp]
 - Removed faceplate from Printables, does not fit the new BEEFY clamps [Will come back soon]
 - As always, there is no way for me to test the clamps on every “clone” of a dremel. You'll have to print a test and adjust as needed.
+- Added splash_guard to printables. Limits dust to the belt paths. [ only works if the spoilboard is under 24mm thick]
 - Full credit to Shadowphyre for the new BEEFY dremel clamps. 
 
 
