@@ -3,6 +3,15 @@
 ## [Join us on Discord!](https://discord.gg/f6FjTJYpcy)
 ### Got too many Enders laying around? Dont need a [5th Trident?](https://github.com/yell3D/Ender3dent) Well! Try one of the EnderCNC's, born from a lack of sleep, a wish to learn more CAD and too many spare parts floating around.
 
+__**PROJECT LINKS**__
+- [BILL OF MATERIAL](https://github.com/Futtawuh/EnderCNCs/blob/main/Ender3CNC/BOM.md)
+- [BUILD GUIDE (WIP)](https://github.com/Futtawuh/EnderCNCs/blob/main/Ender3CNC/Manual.md)
+- [STL files](https://www.printables.com/model/1318299-e3cnc-ender-3-pro-based-cnc/files)
+- [CAD files](https://www.printables.com/model/1318299-e3cnc-ender-3-pro-based-cnc/files)
+- [Changelog](https://github.com/Futtawuh/EnderCNC/blob/main/Changelog.md)
+- [Fusion Post Processor](https://github.com/Zergie/mpcnc_post_processor/blob/main/MPCNC.cps) [Credit: Zergie]
+- [How-to use/install Post Processor](https://github.com/Futtawuh/EnderCNCs/blob/main/Ender3CNC/fusion360%20post%20processor.md)
+
 ## Current plan has changed a bit. There will be multiple versions of these.
 
 ### A [new cheaper version](https://github.com/Futtawuh/EnderCNCs/tree/main/Ender3CNC) is now released!
@@ -21,29 +30,5 @@
 ### Other versions
 
 - The MGN version will be based around the new Ender3CNC version, with minor tweaks to the frame layout resulting in a bigger cutting area.
-- Mill style (MILO CNC) is also being worked on but might not be built unless i find more cheap Ender's. 
-
-# Always check out the [Changelog](https://github.com/Futtawuh/EnderCNC/blob/main/Changelog.md) for any updates done to the CADs. 
-
-Here are some videos from the original EnderCNC pre facelift using a 150W 20$ dremel.  
-
-https://github.com/user-attachments/assets/92859aa1-7ed4-4385-81ab-ec51dbf1d837
-
-https://github.com/user-attachments/assets/d6dc1093-e1e1-4dbe-b1f9-021c9d8749b4
-
-# (Residue on the bit is just sticky-tape from doing the holes)
-
-https://github.com/user-attachments/assets/a4f48e41-3836-4eb9-8406-88c55c8b1824
-
-![part](https://github.com/user-attachments/assets/84995a64-6b96-4889-8dd5-63da7fdcb275)
-
-120mm bed carriage milled on EnderCNC for a 120mm cubed Voron SW. 
-![IMG_20250321_161914204](https://github.com/user-attachments/assets/9a3e3cc3-5c70-4df6-8769-82ac26cb7435)
-
-
-
-
-
-
 
 # Discord: ravenkeeper
