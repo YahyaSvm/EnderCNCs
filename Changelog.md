@@ -1,3 +1,9 @@
+# 29.07.25
+
+- Cleaned up CAD a bit, new CAD uploaded today that is ONLY for the cheap version that is tested and works. There will not be more updates to this CAD version unless issues arrise.
+- New CAD with mods/upgrades will be coming soon. MGN rails etc. More info? join the Discord.
+
+
 # 28.07.25
 
 - Added new CAD version, no major changes yet, only updates to the BEEFY dremel clams, Ø52-65mm spindle clamps. 
