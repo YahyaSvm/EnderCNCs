@@ -6,5 +6,8 @@
 ### E3CNC.02 by Shadowphyre!
 ![c6e9ab00-61f4-485c-8042-61809af97d35](https://github.com/user-attachments/assets/18dd2250-4304-4a53-8ac0-229c10cfc96b)
 
+### E3CNC.03 by scalaw4g!
+![IMG_0060](https://github.com/user-attachments/assets/a17f3feb-f31b-4c5d-b64b-5b7f2bb7a775)
+
 
 
