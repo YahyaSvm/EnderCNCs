@@ -22,6 +22,36 @@
 ### E3CNC.07 by slyngSh0t!
 <img width="808" height="842" alt="image" src="https://github.com/user-attachments/assets/af3ce84c-d52e-4787-8671-ce4d9b47047c" />
 
+### E3CNC.08 by piro_o!
+![piro](https://github.com/user-attachments/assets/ac9c7333-6052-47d7-ad32-e748e272c603)
+
+### E3CNC.09 by __vz__!
+need picture
+
+### E3CNC.10 by Pickle!
+![pickle](https://github.com/user-attachments/assets/a76dad47-9462-424f-a48d-ffa021440296)
+
+### E3CNC.11 by Rian_ODonnell1337!
+![rian](https://github.com/user-attachments/assets/f5c53411-1e5f-4740-853d-6984495dee02)
+
+### E3CNC.12 by Nulterm!
+need picture
+
+### E3CNC.13 by Laika!
+![laika](https://github.com/user-attachments/assets/b1b6a432-680c-4392-b465-8f572732ee6b)
+
+### E3CNC.14 by VEK!
+<img width="1045" height="1370" alt="Screenshot_20251209_134440" src="https://github.com/user-attachments/assets/433246ef-ba87-4ff9-9061-19262ef5be22" />
+
+### E3CNC.15 by superjasiek!
+<img width="795" height="741" alt="Screenshot_20251209_134607" src="https://github.com/user-attachments/assets/574149d3-70f1-41da-828f-f373adb1d65d" />
+
+### E3CNC.16 by itsmosby!
+<img width="1637" height="1359" alt="image" src="https://github.com/user-attachments/assets/909b0d43-5cea-43f3-81fa-6d1a7bf38a4c" />
+
+### E3CNC.17 by TimToBeat!
+![tim](https://github.com/user-attachments/assets/0e28263a-54ac-4ce4-a752-f5e4068d18bd)
+
 
 
 
