@@ -126,7 +126,7 @@ The first-generation design, now in stable "release" state.
 
 | Specification | Value |
 |--------------|-------|
-| **Cutting Area** | ~220mm x 220mm x ~150mm (Z) |
+| **Cutting Area** | Full travel: ~X165mm × Y260mm × Z150mm |
 | **Frame** | Ender 3 PRO aluminum extrusions |
 | **Linear Motion** | V-wheels (X/Y), Dual MGN12 rails (Z) |
 | **Motors** | Original Ender 3 steppers |
