@@ -137,7 +137,7 @@ The first-generation design, now in stable "release" state.
 
 ### Print Settings (for 3D printed parts)
 
-- **Material**: PLA+ recommended
+- **Material**: PETG recommended
 - **Walls**: 5 perimeters
 - **Top/Bottom**: 5 layers
 - **Infill**: 40% gyroid pattern
